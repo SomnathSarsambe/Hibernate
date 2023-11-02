@@ -1,0 +1,15 @@
+Hibernate CRUD Operations with Maven
+
+This GitHub repository contains a Java application that demonstrates how to perform CRUD operations (Create, Read, Update, Delete) using Hibernate, a powerful Object-Relational Mapping (ORM) framework, and Maven for project management. It provides a practical example of how to interact with a relational database using Hibernate to manage data.
+
+Features:
+Create: Demonstrates how to insert new records into a database using Hibernate.
+Read: Shows how to retrieve and display data from the database.
+Update: Explains how to modify existing records in the database.
+Delete: Illustrates how to delete records from the database.
+
+Technologies Used:
+Hibernate: Hibernate is a widely-used ORM framework that simplifies database interaction by mapping Java objects to database tables.
+Maven: Maven is a build automation and project management tool that simplifies project setup, dependencies, and building processes.
+Java: The project is written in Java, a widely-used programming language.
+Database: You can configure the application to work with your preferred relational database (e.g., MySQL, PostgreSQL, Oracle, etc.).
